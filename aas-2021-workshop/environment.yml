@@ -1,0 +1,9 @@
+name: aas2021
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - sunpy>=3.0
+  - python-graphviz
+  - astroquery
+  - reproject
